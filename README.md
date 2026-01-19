@@ -6,7 +6,7 @@
 <p>
 Welcome to my GitHub! <br/>
 I'm <b>Mostafa Mahmoud</b>, SQL Developer & Data Engineering Enthusiast
-from <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Egypt</b>.
+from <img  <b>Egypt</b>.
 </p>
 
 <p>
