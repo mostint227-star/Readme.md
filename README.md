@@ -6,7 +6,6 @@
 <p>
 Welcome to my GitHub! <br/>
 I'm <b>Mostafa Mahmoud</b>, SQL Developer & Data Engineering Enthusiast
-from <img  <b>Egypt</b>.
 </p>
 
 <p>
